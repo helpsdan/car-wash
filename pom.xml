@@ -9,7 +9,7 @@
     </parent>
     <groupId>br.com.carwash</groupId>
     <artifactId>Car-Wash</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>Car-Wash</name>
     <description>Demo project for TDD</description>
 
