@@ -14,7 +14,7 @@
     <description>Demo project for TDD</description>
 
     <scm>
-        <developerConnection>scm:git:[fetch=]https://github.com/helpsdan/car-wash
+        <developerConnection>scm:git:https://github.com/helpsdan/car-wash
         </developerConnection>
       <tag>Car-Wash-0.0.2</tag>
   </scm>
